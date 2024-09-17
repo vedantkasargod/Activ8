@@ -22,3 +22,7 @@ This project contains various custom activation functions for neural networks im
    ```bash
    git clone https://github.com/yourusername/activation-functions.git
    cd activation-functions
+
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
