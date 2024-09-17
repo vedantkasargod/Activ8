@@ -21,7 +21,7 @@ This project contains various custom activation functions for neural networks im
 1. Clone the repository:
    ```bash
    git clone https://github.com/vedantkasargod/Activ8.git
-   cd activation-functions
+   cd activ8
 
 2. Install dependencies
    ```bash
